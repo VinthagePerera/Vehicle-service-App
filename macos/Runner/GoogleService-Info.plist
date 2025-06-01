@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAm6DrMrOPAr1cefX-cuZyYf9XAMih1F0s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>74337324883</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.project1.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>car-service-app-a3cb2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>car-service-app-a3cb2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:74337324883:ios:01e9e11873782975689ba6</string>
+	<key>DATABASE_URL</key>
+	<string>https://car-service-app-a3cb2-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
